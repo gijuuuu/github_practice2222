@@ -2,6 +2,7 @@
 
 int main()
 {
-    printf("얘들아뉴비톤화이팅");
+    printf("kk");
+    printf("화이탱");
     return 0;
 }
